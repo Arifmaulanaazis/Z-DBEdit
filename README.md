@@ -75,7 +75,16 @@ Download the latest precompiled Windows executable from the [latest release](htt
 **Changes not saved:**  
 - Ensure you click "Save Change" after editing  
 - Check for a stable connection  
-- Verify that the edited table is writable  
+- Verify that the edited table is writable
+
+## Screenshot App
+<p align="center">
+  <img src="main_menu.png" alt="Z-DBEdit Main Menu" style="object-fit: cover;">
+</p>
+
+<p align="center">
+  <img src="help_menu.png" alt="Z-DBEdit help Menu" style="object-fit: cover;">
+</p>
 
 ## Contribution  
 Report issues or submit pull requests via GitHub:  
